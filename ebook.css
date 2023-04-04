@@ -4,7 +4,7 @@ div {
 
 body {
     font-family: "Century Schoolbook", "Century Schoolbook New", Book Antiqua, Century, Palatino, serif;
-  font-size: 150%;
+  font-size: 2.5vw;
   text-align: center;
   width: max-content;
   max-width: min(80vw,max(600px,30em));
