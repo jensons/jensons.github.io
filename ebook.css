@@ -7,7 +7,7 @@ body {
   font-size: 3vw;
   text-align: center;
   width: max-content;
-  max-width: min(80vw,max(600px,30em));
+  max-width: min(70vw,max(600px,30em));
   margin: 5vh auto 10vh auto;
   background: url(https://i.imgur.com/8FErzjl.jpg);
   background-size: 100vw;
