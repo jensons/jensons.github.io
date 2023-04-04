@@ -1,0 +1,32 @@
+div {
+  display: none;
+}
+
+body {
+    font-family: "Century Schoolbook", "Century Schoolbook New", Book Antiqua, Century, Palatino, serif;
+  font-size: 150%;
+  text-align: center;
+  width: max-content;
+  max-width: min(80vw,max(600px,30em));
+  margin: 5vh auto 10vh auto;
+  background: url(https://i.imgur.com/8FErzjl.jpg);
+  background-size: 100vw;
+}
+
+p {
+  /*font-size: min(3vw,30px);*/
+  text-align: justify;
+}
+
+a {
+  color: black;
+}
+
+/*h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+}*/
+
+
