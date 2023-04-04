@@ -22,9 +22,7 @@ a {
   color: black;
 }
 
-h1::before {
-  content: "jenson.st";
-  display: block;
+.home {
   font-size: 3vw;
   width: min-content;
   background: #050;
@@ -33,12 +31,4 @@ h1::before {
   margin: 1vw auto;
   border-radius: 1vw;
 }
-
-/*h1,
-h2,
-h3,
-h4 {
-  text-align: center;
-}*/
-
 
